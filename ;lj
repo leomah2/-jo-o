@@ -1,0 +1,2 @@
+sudo mkdir -p /etc/chainflip/config
+sudo nano /etc/chainflip/config/Default.toml
